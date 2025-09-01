@@ -60,7 +60,8 @@ This project analyzes OTC product sales across different countries, months, prod
 - Dashboard Design
 - Data Analysis & Visualization
 
----
+--- ![Uploading image.png…]()
+
 
 ## 📁 Files Included
 
