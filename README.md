@@ -1,4 +1,6 @@
 # OTC Sales Analysis Dashboard
+<img width="703" height="489" alt="image" src="https://github.com/user-attachments/assets/b79c87a7-c117-4ebf-bd36-1735b95b4949" />
+
 A data analysis project focused on Over-The-Counter (OTC) sales data. The goal was to transform raw transactional data into meaningful insights using Microsoft Excel, showcasing skills in data cleaning, pivot tables, and dashboard design.
 
 ## 📌 Project Overview
