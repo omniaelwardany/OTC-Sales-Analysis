@@ -75,5 +75,5 @@ This project analyzes OTC product sales across different countries, months, prod
 
 Feel free to reach out if you'd like to collaborate or discuss this project!
 
-- [https://www.linkedin.com/in/omnia-elwardany-a994b91b5/overlay/contact-info/) *(Add your LinkedIn profile here)*  
+- [https://www.linkedin.com/in/omnia-elwardany-a994b91b5/) *(Add your LinkedIn profile here)*  
 - 📧 Email: *om.y23416@gmail.com*
