@@ -1,7 +1,4 @@
-# OTC-Sales-Analysis
-This project focused on transforming raw transactional data into actionable business insights through structured analysis and visualization.
 # OTC Sales Analysis Dashboard
-
 A data analysis project focused on Over-The-Counter (OTC) sales data. The goal was to transform raw transactional data into meaningful insights using Microsoft Excel, showcasing skills in data cleaning, pivot tables, and dashboard design.
 
 ## 📌 Project Overview
